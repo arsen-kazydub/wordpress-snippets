@@ -41,7 +41,7 @@ built around a standardized and maintainable unit title generation system.
 * Bedroom range determination
 
 
-## How to Set Up Backend
+## Backend Setup
 
 In JetEngine, create a CPT and add a repeater field: `property_units`.
 
